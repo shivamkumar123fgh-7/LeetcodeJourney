@@ -12,6 +12,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
+| [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,16 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+## Sorting
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
