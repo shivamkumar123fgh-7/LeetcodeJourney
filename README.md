@@ -8,6 +8,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0009-palindrome-number](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This repo represents my LeetCode Journey
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
@@ -72,6 +74,7 @@ This repo represents my LeetCode Journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -89,4 +92,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
