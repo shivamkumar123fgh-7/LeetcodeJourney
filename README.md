@@ -10,6 +10,7 @@ This repo represents my LeetCode Journey
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
@@ -44,6 +45,7 @@ This repo represents my LeetCode Journey
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
@@ -62,6 +64,7 @@ This repo represents my LeetCode Journey
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
