@@ -9,6 +9,7 @@ This repo represents my LeetCode Journey
 | [0009-palindrome-number](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +98,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
