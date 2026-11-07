@@ -7,12 +7,14 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
