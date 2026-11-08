@@ -24,12 +24,14 @@ This repo represents my LeetCode Journey
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
@@ -107,6 +109,7 @@ This repo represents my LeetCode Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -120,4 +123,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
