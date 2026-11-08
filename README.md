@@ -116,4 +116,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
