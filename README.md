@@ -89,10 +89,12 @@ This repo represents my LeetCode Journey
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -136,4 +138,12 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0010-regular-expression-matching) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
