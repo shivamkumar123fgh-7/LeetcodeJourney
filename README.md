@@ -16,6 +16,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
@@ -28,6 +29,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
@@ -168,4 +170,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
