@@ -24,6 +24,7 @@ This repo represents my LeetCode Journey
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@ This repo represents my LeetCode Journey
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
