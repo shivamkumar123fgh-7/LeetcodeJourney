@@ -12,6 +12,7 @@ This repo represents my LeetCode Journey
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repo represents my LeetCode Journey
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
