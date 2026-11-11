@@ -12,6 +12,7 @@ This repo represents my LeetCode Journey
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
@@ -47,6 +48,7 @@ This repo represents my LeetCode Journey
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
+| [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
