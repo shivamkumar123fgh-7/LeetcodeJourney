@@ -13,6 +13,7 @@ This repo represents my LeetCode Journey
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
 | ------- |
@@ -178,4 +179,5 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
