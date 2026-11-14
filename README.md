@@ -28,6 +28,7 @@ This repo represents my LeetCode Journey
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -82,6 +83,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,10 +120,12 @@ This repo represents my LeetCode Journey
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
