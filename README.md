@@ -26,6 +26,7 @@ This repo represents my LeetCode Journey
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
@@ -75,6 +76,7 @@ This repo represents my LeetCode Journey
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@ This repo represents my LeetCode Journey
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
