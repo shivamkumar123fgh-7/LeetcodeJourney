@@ -28,6 +28,7 @@ This repo represents my LeetCode Journey
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -84,6 +85,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sorting
 |  |
@@ -202,4 +204,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
