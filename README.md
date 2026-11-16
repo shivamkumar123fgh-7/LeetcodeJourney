@@ -57,6 +57,7 @@ This repo represents my LeetCode Journey
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
+| [1021-remove-outermost-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
@@ -206,6 +207,7 @@ This repo represents my LeetCode Journey
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
@@ -228,5 +230,6 @@ This repo represents my LeetCode Journey
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
