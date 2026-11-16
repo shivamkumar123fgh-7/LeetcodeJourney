@@ -58,6 +58,7 @@ This repo represents my LeetCode Journey
 | [0058-length-of-last-word](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
@@ -138,6 +139,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
