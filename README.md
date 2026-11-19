@@ -26,6 +26,7 @@ This repo represents my LeetCode Journey
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -135,6 +136,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -192,6 +194,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -200,10 +203,12 @@ This repo represents my LeetCode Journey
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
