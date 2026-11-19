@@ -32,6 +32,7 @@ This repo represents my LeetCode Journey
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -109,6 +110,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
@@ -211,6 +213,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
