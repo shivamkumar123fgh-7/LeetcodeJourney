@@ -34,6 +34,7 @@ This repo represents my LeetCode Journey
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
@@ -243,4 +244,8 @@ This repo represents my LeetCode Journey
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
