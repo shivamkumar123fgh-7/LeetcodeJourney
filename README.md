@@ -18,6 +18,7 @@ This repo represents my LeetCode Journey
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3870-count-commas-in-range](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
