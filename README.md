@@ -28,6 +28,7 @@ This repo represents my LeetCode Journey
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0238-product-of-array-except-self) |
 | [0733-flood-fill](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -255,6 +256,7 @@ This repo represents my LeetCode Journey
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0238-product-of-array-except-self) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
