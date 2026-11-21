@@ -43,6 +43,7 @@ This repo represents my LeetCode Journey
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -75,6 +76,7 @@ This repo represents my LeetCode Journey
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
@@ -106,6 +108,7 @@ This repo represents my LeetCode Journey
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -138,6 +141,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -146,6 +150,7 @@ This repo represents my LeetCode Journey
 | [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
