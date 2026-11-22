@@ -14,6 +14,7 @@ This repo represents my LeetCode Journey
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -47,6 +48,7 @@ This repo represents my LeetCode Journey
 | [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
@@ -111,6 +113,7 @@ This repo represents my LeetCode Journey
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
@@ -119,6 +122,7 @@ This repo represents my LeetCode Journey
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +189,7 @@ This repo represents my LeetCode Journey
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
@@ -195,6 +200,7 @@ This repo represents my LeetCode Journey
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
