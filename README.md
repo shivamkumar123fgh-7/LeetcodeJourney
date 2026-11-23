@@ -18,6 +18,7 @@ This repo represents my LeetCode Journey
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -293,4 +294,8 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
