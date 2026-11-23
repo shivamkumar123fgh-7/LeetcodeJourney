@@ -14,6 +14,7 @@ This repo represents my LeetCode Journey
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
@@ -41,6 +42,7 @@ This repo represents my LeetCode Journey
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1882-process-tasks-using-servers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2747-count-zero-request-servers) |
@@ -297,5 +299,14 @@ This repo represents my LeetCode Journey
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
