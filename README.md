@@ -12,6 +12,7 @@ This repo represents my LeetCode Journey
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,6 +38,7 @@ This repo represents my LeetCode Journey
 | [0088-merge-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0733-flood-fill](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -141,6 +143,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
