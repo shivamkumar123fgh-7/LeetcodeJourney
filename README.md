@@ -33,6 +33,7 @@ This repo represents my LeetCode Journey
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ This repo represents my LeetCode Journey
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
