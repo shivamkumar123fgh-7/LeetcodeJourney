@@ -16,6 +16,7 @@ This repo represents my LeetCode Journey
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
@@ -190,6 +191,7 @@ This repo represents my LeetCode Journey
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3360-stone-removal-game) |
 ## Newton's Method
 |  |
 | ------- |
