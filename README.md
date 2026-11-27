@@ -12,6 +12,7 @@ This repo represents my LeetCode Journey
 | [0067-add-binary](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -39,6 +40,7 @@ This repo represents my LeetCode Journey
 | [0088-merge-sorted-array](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0733-flood-fill](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
