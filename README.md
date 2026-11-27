@@ -67,6 +67,7 @@ This repo represents my LeetCode Journey
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ This repo represents my LeetCode Journey
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -270,6 +272,7 @@ This repo represents my LeetCode Journey
 | [0011-container-with-most-water](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0011-container-with-most-water) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
