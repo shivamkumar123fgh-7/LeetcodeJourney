@@ -65,6 +65,7 @@ This repo represents my LeetCode Journey
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -216,6 +217,7 @@ This repo represents my LeetCode Journey
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3665-twisted-mirror-path-count](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3693-climbing-stairs-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
@@ -263,6 +265,7 @@ This repo represents my LeetCode Journey
 | [0200-number-of-islands](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/1267-count-servers-that-communicate) |
+| [3665-twisted-mirror-path-count](https://github.com/shivamkumar123fgh-7/LeetcodeJourney/tree/master/3665-twisted-mirror-path-count) |
 ## Counting
 |  |
 | ------- |
